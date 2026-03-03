@@ -2,7 +2,7 @@
 
 Personal portfolio and profile website for **Zeeshan Altaf**, an Agentic AI Architect specializing in AI-powered SaaS applications, Agentic AI workflows, automation workflows, and Agentic RAG systems.
 
-🌐 **Live Site:** _(add your deployment URL here)_
+🌐 **Live Site:** https://profile.zeeshanai.cloud
 
 ---
 
