@@ -30,7 +30,7 @@ A clean, premium dark-themed profile webpage built with plain HTML, CSS, and Jav
 
 - **[ResuMatchAI](https://resumatch.zeeshanai.cloud)** — AI-powered resume scoring against job descriptions. Tells you exactly what to fix before you apply.
 - **[InvoiceExtract](https://invoicextract.zeeshanai.cloud)** — Extracts structured data (line items, totals, vendor details) from PDF/image invoices and returns clean JSON.
-- **FitFusion** _(in development)_ — AI-powered workout and nutrition plan generator based on user profile, fitness goals, and training level.
+- **[FitFusion](https://fitfusion.zeeshanai.cloud)** — AI-powered workout and nutrition plan generator based on user profile, fitness goals, and training level.
 
 ### Automation Workflows
 
